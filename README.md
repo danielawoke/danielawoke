@@ -1,7 +1,6 @@
 ![o7n](https://github.com/danielawoke/danielawoke/assets/72922216/635b4096-1427-403f-a6f0-c27c53d102c5)
 
 
-Currently DYING for an internship. Please email me if you would like to work with me
 <div></div>
 📧dawoke@terpmail.umd.edu
 
