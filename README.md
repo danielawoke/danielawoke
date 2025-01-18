@@ -45,7 +45,7 @@
 <a href="https://gitroll.io/profile/uoWH84vwK1PUWAaB4WEGXb2JS97V2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uoWH84vwK1PUWAaB4WEGXb2JS97V2" width=512 height=288 alt="GitRoll Profile Badge"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashfx&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielawoke&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
 
 
 
@@ -70,14 +70,14 @@
 <!-- commented because it shows current streak, added one that shows weekly streak only
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hashfx&theme=tokyonight&hide_border=true&ring=1EE2BF&fire=E25525)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hashfx&mode=weekly&hide_current_streak=true&theme=tokyonight&hide_border=true&ring=1EE2BF&fire=E25525)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danielawoke&mode=weekly&hide_current_streak=true&theme=tokyonight&hide_border=true&ring=1EE2BF&fire=E25525)](https://git.io/streak-stats)
 
-[![hashfx github activity graph](https://activity-graph.herokuapp.com/graph?username=hashfx&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hashfx github activity graph](https://activity-graph.herokuapp.com/graph?username=danielawoke&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hashfx&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielawoke&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielawoke&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" /> </p> 
 
 
 
