@@ -15,7 +15,7 @@
   
 <a href="https://github.com/danielawoke" target="_blank"> ![Github: hashfx](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/daniel-awoke-8b32a0235/">![LinkedIn: hashprog](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" />
+<img src="https://komarev.com/ghpvc/?username=danielawoke&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" />
 
   
 <!-- Skillset Icons -->
