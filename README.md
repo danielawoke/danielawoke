@@ -40,7 +40,7 @@
 <!-- Github Statistics Cards -->
 
 
-  ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=hashfx&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@hashfx-Github-stats&rank_icon=percentile)
+  ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=danielawoke&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@hashfx-Github-stats&rank_icon=percentile)
 
 <a href="https://gitroll.io/profile/uoWH84vwK1PUWAaB4WEGXb2JS97V2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uoWH84vwK1PUWAaB4WEGXb2JS97V2" width=512 height=288 alt="GitRoll Profile Badge"/></a>
 
