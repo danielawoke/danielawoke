@@ -37,8 +37,6 @@
 <a href="https://vite.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://img.utdstc.com/icon/dd4/a6e/dd4a6e96b050404041e492471fc933e9d2dd5c24a7bf06e2f0a0e6a43b0f4bb5:200" alt="python" width="40" height="40"/> </a>
-<a href="https://www.virtualbox.org/" target="_blank"> <img src="https://img.utdstc.com/icon/dd4/a6e/dd4a6e96b050404041e492471fc933e9d2dd5c24a7bf06e2f0a0e6a43b0f4bb5:200" alt="python" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://easyai.tech/wp-content/uploads/2019/01/pytorch.png" alt="python" width="40" height="40"/> </a>
 <a href="https://nuxt.com/" target="_blank"> <img src="https://www.cdnlogo.com/logos/n/70/nuxt.svg" alt="python" width="40" height="40"/> </a>
