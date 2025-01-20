@@ -9,6 +9,7 @@
 <a href="https://github.com/danielawoke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/frozennuts/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/leetcode-icon-430x512-6l72chsk.png" alt="hash.prog" height="30" width="30" style="filter: saturate(1);" /></a>
 <a href="https://www.linkedin.com/in/daniel-awoke-8b32a0235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-awoke-8b32a0235/" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/miscellaneous/general-icon-library/resume-7.png" alt="hash.prog" height="30" width="40" /></a>
 
   
 <!-- Social Media Banners -->
