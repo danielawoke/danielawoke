@@ -56,7 +56,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielawoke&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielawoke&theme=react&custom_title=Most-Used-Languages)](https://github.com/danielawoke/github-readme-stats) 
 
 
 
