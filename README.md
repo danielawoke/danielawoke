@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="mailto:dawoke@terpmail.umd.edu" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_Black_512px.png" alt="hash.prog" height="30" width="40" /></a>  
-<a href="https://github.com/hashfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://github.com/danielawoke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/frozennuts/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/leetcode-icon-430x512-6l72chsk.png" alt="hash.prog" height="30" width="30" style="filter: saturate(1);" /></a>
 <a href="https://www.linkedin.com/in/daniel-awoke-8b32a0235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
 
@@ -15,7 +15,7 @@
   
 <a href="https://github.com/danielawoke" target="_blank"> ![Github: hashfx](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/daniel-awoke-8b32a0235/">![LinkedIn: hashprog](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href="mailto:dawoke@terpmail.umd.edu">![Gmail: hashprog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:dawoke@terpmail.umd.edu" style="filter: saturate(1);">![Gmail: hashprog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <img src="https://komarev.com/ghpvc/?username=danielawoke&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" />
 
   
