@@ -86,7 +86,12 @@
 
 
 
-
+<style>
+  a{
+    display:"inline-block"
+  }
+  
+</style>
 
 
 
